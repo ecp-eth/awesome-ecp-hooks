@@ -9,3 +9,4 @@
 - [Tip Hook](https://github.com/ecp-eth/comments-monorepo/blob/main/packages/protocol/test/TipHook.t.sol)
 - [TokenGated Hook](https://github.com/ecp-eth/comments-monorepo/blob/main/packages/protocol/test/TokenGatedHook.t.sol)
 - [TokenOwner Hook](https://github.com/ecp-eth/comments-monorepo/blob/main/packages/protocol/test/TokenOwnerHook.t.sol)
+- [Only Channel Owners can make top level comments, anyone can reply and react hook](https://github.com/davidfurlong/ecp-only-owner-hook)
